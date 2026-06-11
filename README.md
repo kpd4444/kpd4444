@@ -1,14 +1,45 @@
-## 🛠 Tech Stack
+![header](https://capsule-render.vercel.app/api?type=waving&color=91D4C2&height=220&section=header&text=KimTaeMin&fontSize=60&fontColor=ffffff)
 
-### 💻 Languages & Frameworks
+<div align='center'>
 
-| Category           | Technologies                                                                                                                                                                                                                                                                                                                               |
-| :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**      | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">                                                                                                                                                                                                                                      |
-| **Backend**        | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> |
-| **Database**       | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/H2-09476B?style=for-the-badge&logo=h2database&logoColor=white">                       |
-| **Infrastructure** | <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">    |
-| **Tools**          | <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">      |
-| **Collaboration**  | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">                             |
+## 🙋‍♂️ 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
 
----
+안녕하세요.  
+Java와 Spring 기반의 백엔드 개발자를 목표로 공부하고 있는 김태민입니다.
+
+사용자에게 필요한 기능을 안정적으로 제공하는 서버 개발에 관심이 있으며,  
+Spring Boot, JPA, 데이터베이스, 배포 환경을 중심으로 백엔드 역량을 쌓고 있습니다.
+
+<br>
+
+## 📍 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 & 𝑺𝒐𝒄𝒊𝒂𝒍 𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒚
+
+| 소속 및 단체 | 활동 기간 | 내용 |
+| :--- | :--- | :--- |
+| 인천대학교 | 재학 중 | 정보통신공학과 재학 |
+| 멋쟁이사자처럼 | 2025.03 ~ 2026.02 | 멋쟁이사자처럼 13기 부원 |
+| 멋쟁이사자처럼 | 2026.02 ~ 2027.02 | 멋쟁이사자처럼 14기 운영진 |
+
+<br>
+
+## 🛠 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> |
+| **Backend** | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> |
+| **Database** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/H2-09476B?style=for-the-badge&logo=h2database&logoColor=white"> |
+| **Infrastructure** | <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> |
+| **Tools** | <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"> |
+| **Collaboration** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> |
+
+<br>
+
+## 🪪 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒆
+
+| 취득일 | 자격명 | 주관 |
+| :--- | :--- | :--- |
+| 2025.06.27 | SQLD | 한국데이터산업진흥원 |
+| 2026.06.12 | 정보처리기사 | 한국산업인력공단 |
+
+</div>
